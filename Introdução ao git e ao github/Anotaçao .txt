@@ -1,3 +1,5 @@
 no curso de git/git hub 
 ctrl + l limpa a "pagina" em que estamos 
 mkdir e para criar / cd .. volta / cd entra em novas paginas ou sai das paginas 
+git push origin main e o codico uzado para enviar para o repositorio 
+git commit -m serve para incluir todos os arquivos modificados no repositorio para depois enviar
