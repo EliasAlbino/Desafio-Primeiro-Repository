@@ -1,0 +1,3 @@
+no curso de git/git hub 
+ctrl + l limpa a "pagina" em que estamos 
+mkdir e para criar / cd .. volta / cd entra em novas paginas ou sai das paginas 
